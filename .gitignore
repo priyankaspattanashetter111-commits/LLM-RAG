@@ -1,0 +1,14 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.env
+**/chroma_db/
+**/chromadb/
+**/chroma_persist/
+**/chroma_persistent_storage/
+**/knowledge_base/
+**/downloads/*.mp3
+**/downloads/*.webm
+
+**/chroma_persist/
